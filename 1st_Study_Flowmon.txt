@@ -1,0 +1,178 @@
+
+--------------1st Study Distance = 100m---------------
+
+Flow ID: 1 Src Addr 10.0.0.2 Dst Addr 10.0.0.1
+       Tx Packets = 143830
+       Rx Packets = 143830
+       Throughput: 21290.3 Kbps
+
+Flow ID: 2 Src Addr 10.0.0.1 Dst Addr 10.0.0.2
+       Tx Packets = 71915
+       Rx Packets = 71915
+       Throughput: 486.532 Kbps
+
+--------------1st Study Distance = 200m---------------
+
+Flow ID: 1 Src Addr 10.0.0.2 Dst Addr 10.0.0.1
+       Tx Packets = 109416
+       Rx Packets = 109416
+       Throughput: 16206.3 Kbps
+
+Flow ID: 2 Src Addr 10.0.0.1 Dst Addr 10.0.0.2
+       Tx Packets = 54708
+       Rx Packets = 54708
+       Throughput: 370.043 Kbps
+
+--------------1st Study Distance = 300m---------------
+
+Flow ID: 1 Src Addr 10.0.0.2 Dst Addr 10.0.0.1
+       Tx Packets = 105120
+       Rx Packets = 105120
+       Throughput: 15571.9 Kbps
+
+Flow ID: 2 Src Addr 10.0.0.1 Dst Addr 10.0.0.2
+       Tx Packets = 52560
+       Rx Packets = 52560
+       Throughput: 355.506 Kbps
+
+--------------1st Study Distance = 400m---------------
+
+Flow ID: 1 Src Addr 10.0.0.2 Dst Addr 10.0.0.1
+       Tx Packets = 79320
+       Rx Packets = 79320
+       Throughput: 11757.2 Kbps
+
+Flow ID: 2 Src Addr 10.0.0.1 Dst Addr 10.0.0.2
+       Tx Packets = 39660
+       Rx Packets = 39660
+       Throughput: 268.1 Kbps
+
+--------------1st Study Distance = 500m---------------
+
+low ID: 1 Src Addr 10.0.0.2 Dst Addr 10.0.0.1
+       Tx Packets = 66794
+       Rx Packets = 66794
+       Throughput: 9908.49 Kbps
+
+Flow ID: 2 Src Addr 10.0.0.1 Dst Addr 10.0.0.2
+       Tx Packets = 33397
+       Rx Packets = 33397
+       Throughput: 225.741 Kbps
+
+--------------1st Study Distance = 600m---------------
+
+Flow ID: 1 Src Addr 10.0.0.2 Dst Addr 10.0.0.1
+       Tx Packets = 66936
+       Rx Packets = 66936
+       Throughput: 9919.9 Kbps
+
+Flow ID: 2 Src Addr 10.0.0.1 Dst Addr 10.0.0.2
+       Tx Packets = 33468
+       Rx Packets = 33468
+       Throughput: 226.374 Kbps
+
+--------------1st Study Distance = 700m---------------
+
+Flow ID: 1 Src Addr 10.0.0.2 Dst Addr 10.0.0.1
+       Tx Packets = 66154
+       Rx Packets = 66154
+       Throughput: 9797.24 Kbps
+
+Flow ID: 2 Src Addr 10.0.0.1 Dst Addr 10.0.0.2
+       Tx Packets = 33077
+       Rx Packets = 33077
+       Throughput: 223.566 Kbps
+
+--------------1st Study Distance = 800m---------------
+
+Flow ID: 1 Src Addr 10.0.0.2 Dst Addr 10.0.0.1
+       Tx Packets = 44052
+       Rx Packets = 44052
+       Throughput: 6527.97 Kbps
+
+Flow ID: 2 Src Addr 10.0.0.1 Dst Addr 10.0.0.2
+       Tx Packets = 22026
+       Rx Packets = 22026
+       Throughput: 148.659 Kbps
+
+--------------1st Study Distance = 900m---------------
+
+Flow ID: 1 Src Addr 10.0.0.2 Dst Addr 10.0.0.1
+       Tx Packets = 48292
+       Rx Packets = 48292
+       Throughput: 7158.19 Kbps
+
+Flow ID: 2 Src Addr 10.0.0.1 Dst Addr 10.0.0.2
+       Tx Packets = 24146
+       Rx Packets = 24146
+       Throughput: 163.098 Kbps
+       
+--------------1st Study Distance = 1000m---------------
+
+Flow ID: 1 Src Addr 10.0.0.2 Dst Addr 10.0.0.1
+       Tx Packets = 47688
+       Rx Packets = 47688
+       Throughput: 7070.79 Kbps
+
+Flow ID: 2 Src Addr 10.0.0.1 Dst Addr 10.0.0.2
+       Tx Packets = 23844
+       Rx Packets = 23844
+       Throughput: 161.094 Kbps
+
+--------------1st Study Distance = 1100m---------------
+
+Flow ID: 1 Src Addr 10.0.0.2 Dst Addr 10.0.0.1
+       Tx Packets = 26040
+       Rx Packets = 26040
+       Throughput: 3869.25 Kbps
+
+Flow ID: 2 Src Addr 10.0.0.1 Dst Addr 10.0.0.2
+       Tx Packets = 13020
+       Rx Packets = 13020
+       Throughput: 87.7422 Kbps
+
+--------------1st Study Distance = 1200m---------------
+
+Flow ID: 1 Src Addr 10.0.0.2 Dst Addr 10.0.0.1
+       Tx Packets = 25940
+       Rx Packets = 25940
+       Throughput: 3856.43 Kbps
+
+Flow ID: 2 Src Addr 10.0.0.1 Dst Addr 10.0.0.2
+       Tx Packets = 12970
+       Rx Packets = 12968
+       Throughput: 87.4264 Kbps
+       
+--------------1st Study Distance = 1300m---------------
+
+Flow ID: 1 Src Addr 10.0.0.2 Dst Addr 10.0.0.1
+       Tx Packets = 26270
+       Rx Packets = 26270
+       Throughput: 3919 Kbps
+
+Flow ID: 2 Src Addr 10.0.0.1 Dst Addr 10.0.0.2
+       Tx Packets = 13135
+       Rx Packets = 13135
+       Throughput: 88.88 Kbps
+
+--------------1st Study Distance = 1400m---------------
+
+Flow ID: 1 Src Addr 10.0.0.2 Dst Addr 10.0.0.1
+       Tx Packets = 2524
+       Rx Packets = 2473
+       Throughput: 463.41 Kbps
+
+Flow ID: 2 Src Addr 10.0.0.1 Dst Addr 10.0.0.2
+       Tx Packets = 1539
+       Rx Packets = 1539
+       Throughput: 10.8536 Kbps
+       
+--------------1st Study Distance = 1500m---------------
+
+Flow ID: 1 Src Addr 10.0.0.2 Dst Addr 10.0.0.1
+       Tx Packets = 6
+       Rx Packets = 0
+       Throughput: -0 Kbps
+
+
+
